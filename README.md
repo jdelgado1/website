@@ -1,2 +1,2 @@
 # website
-Jose Delgado
+Jose Delgado's personal website.
